@@ -42,8 +42,7 @@
   </script>
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
 
-
-
 ---
 
-<!-- Remove above link if you don't want to attibute -->
+### <a href="https://avertek.net">Learn More About AVERtek's XR-NOW</a> 
+  <br><br>
