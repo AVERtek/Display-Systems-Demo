@@ -1,11 +1,10 @@
-## ONE SOURCE INDUSTRIES, LLC. 
+## DISPLAY SYSTEMS DEMO
 
 ---
 
-### Microsoft Store Display
+### Retail Store Display
 
-<a href="https://osicreative.com">OSI Building Brands; Growing Business</a> 
-  <br><br>
+
 <!--### OSI Building Brands; Growing Business(/https://osicreative.com/)-->
 <!--img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
